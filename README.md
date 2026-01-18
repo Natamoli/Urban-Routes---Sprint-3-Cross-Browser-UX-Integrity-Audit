@@ -13,10 +13,10 @@ I used two different setups to check how the app adapts to different screens:
 
 ## 🎯 What I Learned
 
-- Web Elements: How to inspect and test buttons, forms, and maps.
-- Responsive Design: How to find bugs when a website changes size.
-- Browser Engines: Learning that an app might work in Chrome but fail in Firefox.
-- Technical Test Design: Writing detailed test cases specifically for web interfaces.
+- **Web Elements**: How to inspect and test buttons, forms, and maps.
+- **Responsive Design**: How to find bugs when a website changes size.
+- **Browser Engines**: Learning that an app might work in Chrome but fail in Firefox.
+- **Technical Test Design**: Writing detailed test cases specifically for web interfaces.
 
 ## 🛠️ Tools & QA Techniques
 
@@ -30,10 +30,10 @@ Tools Used:
 
 I organized my work into four main areas to ensure 100% coverage:
 
-* UI & Layout Checklist: Checking the design and visual elements. (https://docs.google.com/spreadsheets/d/1K75Ku75wPVc5dTUCSazlnF4x5Wz5ncbe/edit?usp=sharing&ouid=110641800876252641675&rtpof=true&sd=true)
-* Payment Method Tests: Testing the flow for adding and using credit cards. (https://docs.google.com/spreadsheets/d/1K75Ku75wPVc5dTUCSazlnF4x5Wz5ncbe/edit?usp=sharing&ouid=110641800876252641675&rtpof=true&sd=true)
-* Reservation Logic: Testing the main "Reserve" button and user flow. (https://docs.google.com/spreadsheets/d/1K75Ku75wPVc5dTUCSazlnF4x5Wz5ncbe/edit?usp=sharing&ouid=110641800876252641675&rtpof=true&sd=true)
-* Car Rental Suite: Testing the specific rules for renting a vehicle. (https://docs.google.com/spreadsheets/d/1K75Ku75wPVc5dTUCSazlnF4x5Wz5ncbe/edit?usp=sharing&ouid=110641800876252641675&rtpof=true&sd=true)
+* **UI & Layout Checklist**: Checking the design and visual elements. (https://docs.google.com/spreadsheets/d/1K75Ku75wPVc5dTUCSazlnF4x5Wz5ncbe/edit?usp=sharing&ouid=110641800876252641675&rtpof=true&sd=true)
+* **Payment Method Tests**: Testing the flow for adding and using credit cards. (https://docs.google.com/spreadsheets/d/1K75Ku75wPVc5dTUCSazlnF4x5Wz5ncbe/edit?usp=sharing&ouid=110641800876252641675&rtpof=true&sd=true)
+* **Reservation Logic**: Testing the main "Reserve" button and user flow. (https://docs.google.com/spreadsheets/d/1K75Ku75wPVc5dTUCSazlnF4x5Wz5ncbe/edit?usp=sharing&ouid=110641800876252641675&rtpof=true&sd=true)
+* **Car Rental Suite**: Testing the specific rules for renting a vehicle. (https://docs.google.com/spreadsheets/d/1K75Ku75wPVc5dTUCSazlnF4x5Wz5ncbe/edit?usp=sharing&ouid=110641800876252641675&rtpof=true&sd=true)
 
 ## 🔍 Key Bug Findings & Observations
 
